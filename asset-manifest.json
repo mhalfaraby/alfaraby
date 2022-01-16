@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/alfaraby/static/css/main.d1b05096.chunk.css",
+    "main.js": "/alfaraby/static/js/main.9052b70f.chunk.js",
+    "main.js.map": "/alfaraby/static/js/main.9052b70f.chunk.js.map",
+    "runtime~main.js": "/alfaraby/static/js/runtime~main.534d5880.js",
+    "runtime~main.js.map": "/alfaraby/static/js/runtime~main.534d5880.js.map",
+    "static/js/2.ea490775.chunk.js": "/alfaraby/static/js/2.ea490775.chunk.js",
+    "static/js/2.ea490775.chunk.js.map": "/alfaraby/static/js/2.ea490775.chunk.js.map",
+    "static/js/3.d439ba6f.chunk.js": "/alfaraby/static/js/3.d439ba6f.chunk.js",
+    "static/js/3.d439ba6f.chunk.js.map": "/alfaraby/static/js/3.d439ba6f.chunk.js.map",
+    "index.html": "/alfaraby/index.html",
+    "precache-manifest.f0e4e1abbb2f0e62e1020fab5729bfc9.js": "/alfaraby/precache-manifest.f0e4e1abbb2f0e62e1020fab5729bfc9.js",
+    "service-worker.js": "/alfaraby/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/alfaraby/static/css/main.d1b05096.chunk.css.map",
+    "static/media/logo.svg": "/alfaraby/static/media/logo.06e73328.svg"
+  }
+}
