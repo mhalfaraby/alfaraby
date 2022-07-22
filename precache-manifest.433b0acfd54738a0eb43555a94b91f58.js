@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "92b1db2034d98f38384a37e5639c0a24",
+    "revision": "1015a1aeb684ac4ee279a4fe564d6c75",
     "url": "/alfaraby/index.html"
   },
   {
-    "revision": "f0147474801fbc1268d8",
+    "revision": "d7e10ce74d2a8fb10ecd",
     "url": "/alfaraby/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/alfaraby/static/js/3.d439ba6f.chunk.js"
   },
   {
-    "revision": "f0147474801fbc1268d8",
-    "url": "/alfaraby/static/js/main.9052b70f.chunk.js"
+    "revision": "d7e10ce74d2a8fb10ecd",
+    "url": "/alfaraby/static/js/main.74d97eb4.chunk.js"
   },
   {
     "revision": "0e48b462f9622a72dc56",
